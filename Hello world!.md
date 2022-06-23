@@ -15,4 +15,3 @@
 1. Первый элемент нумерованного списка.
 2. Второй элемент нумерованного списка.
 
-We begin our acquaintance with git version control
