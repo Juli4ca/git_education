@@ -4,6 +4,6 @@
 
 one more change
 
-![название]('2021-04-02.png')
+![название](https://img1.fonwall.ru/o/sx/beach-sea-coast-water-wffi.jpeg)
 
 > цитата
